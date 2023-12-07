@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sarah Obarhoro",
+	"description": "My first Node.js project on Freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
